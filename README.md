@@ -1,19 +1,19 @@
-# Credit Score Application
+# 🎯 Credit Score Application
 
-## Setup
+## ⚙️ Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
     ```sh
     git clone https://github.com/yourusername/credit-score-app.git
     cd credit-score-app
     ```
 
-2. Install dependencies:
+2. **Install dependencies:**
     ```sh
     npm install
     ```
 
-3. Create a `.env` file and add the following variables:
+3. **Create a `.env` file and add the following variables:**
     ```env
     PORT=3000
     RPC_URL=YOUR_RPC_URL
@@ -22,14 +22,14 @@
     TATUM_API_KEY=YOUR_TATUM_API_KEY
     ```
 
-4. Start the server:
+4. **Start the server:**
     ```sh
     npm start
     ```
 
-## Usage
+## 🚀 Usage
 
-Access the API endpoint to get the credit score:
+**Access the API endpoint to get the credit score:**
 ```sh
 GET /api/get-credit-score/:address
 ```
