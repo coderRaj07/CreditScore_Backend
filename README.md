@@ -5,7 +5,7 @@
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/coderRaj07/CreditScore_Backend
-    cd credit-score-app
+    cd CreditScore_Backend
     ```
 
 2. **Install dependencies:**
